@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("helloworld b")
-	fmt.Println(strutil.reverse("helloworld"))
+	fmt.Println("helloworld c")
 }
